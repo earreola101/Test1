@@ -7,4 +7,3 @@ C:\Test1\Test1\Test1\obj\Debug\Test1.exe
 C:\Test1\Test1\Test1\obj\Debug\Test1.pdb
 C:\Test1\Test1\Test1\bin\Debug\Test1.exe
 C:\Test1\Test1\Test1\bin\Debug\Test1.pdb
-C:\Test1\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache

@@ -9,7 +9,8 @@ namespace Test1
     {
         static void Main(string[] args)
         {
-
+           // calibration method. 
+           // total hole size.
         }
     }
 }
